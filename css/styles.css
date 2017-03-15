@@ -3,7 +3,6 @@
   margin-top: -20px;
 }
 
-
 .address {
   font-size: 19px;
 
@@ -32,6 +31,7 @@ body {
   margin: 0px;
   font-family: 'Dosis', sans-serif;
   width: 1500px;
+
 }
 
 .content {
@@ -109,4 +109,14 @@ a:hover {
 p {
   font-size: 19px;
   width: 780px;
+}
+
+@media screen and (max-width:  480px) {
+  body {
+    background-color: black;
+  }
+}
+
+@media screen and (max-width: 900) {
+
 }
