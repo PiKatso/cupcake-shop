@@ -1,5 +1,28 @@
+.nav {
+  background-color: #D89A9E;
+  margin-top: -20px;
+}
+
+ul {
+  padding: 0px;
+}
+
+.nav-list {
+  font-size: 19px;
+  display: inline-block;
+  color: white;
+  list-style: none;
+  padding: 5px 0px 5px 15px;
+}
+
 body {
   background-color: #846267;
+  margin: 0px;
+  font-family: 'Dosis', sans-serif;
+}
+
+.content {
+  margin-left: 15px;
 }
 
 img {
@@ -8,9 +31,11 @@ img {
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 80px;
   color: #C37D92;
   font-style: oblique;
+  font-family: helvetica;
+  margin: 20px 0px 15px 0px
 }
 
 .subtitle {
@@ -27,7 +52,16 @@ a {
   text-decoration: none;
 }
 
+.reservation {
+    font-family: helvetica;
+    font-size: 25px;
+}
+
 .link-hue {
   color: #D89A9E;
+}
 
+p {
+  font-size: 19px;
+  width: 780px;
 }
