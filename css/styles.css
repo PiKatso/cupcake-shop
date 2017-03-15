@@ -3,6 +3,18 @@
   margin-top: -20px;
 }
 
+
+.address {
+  font-size: 19px;
+
+  font-family: helvetica;
+  text-align: center;
+}
+.address-container {
+  width: 450px;
+  height: auto;
+}
+
 ul {
   padding: 0px;
 }
@@ -19,15 +31,24 @@ body {
   background-color: #846267;
   margin: 0px;
   font-family: 'Dosis', sans-serif;
+  width: 1500px;
 }
 
 .content {
   margin-left: 15px;
+  width: 1150px
 }
 
 img {
   height: 500px;
   width: 100%;
+}
+
+.about-img {
+  width: 300px;
+  height: auto;
+  float: right;
+
 }
 
 h1 {
@@ -53,13 +74,26 @@ a {
   color: white;
 }
 
+a:hover {
+  color: #AAC0AA;
+}
+
 .cupcake {
   color: #C37D92;
 }
 
-.reservation {
+.cupcake:hover {
+  color: #C37D92;
+}
+
+.contact {
     font-family: helvetica;
     font-size: 25px;
+}
+
+.important {
+  font-family: helvetica;
+
 }
 
 .link-hue {
