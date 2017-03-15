@@ -1,0 +1,33 @@
+body {
+  background-color: #846267;
+}
+
+img {
+  height: 500px;
+  width: 100%;
+}
+
+h1 {
+  font-size: 70px;
+  color: #C37D92;
+  font-style: oblique;
+}
+
+.subtitle {
+  font-size: 30px;
+  color: #E0C1B3;
+}
+
+h2 {
+  color: #AAC0AA;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+}
+
+.link-hue {
+  color: #D89A9E;
+
+}
